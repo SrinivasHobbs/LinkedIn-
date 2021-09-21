@@ -1,2 +1,2 @@
 # LinkedIn-
-LinkedIn projects(Or)Content 
+LinkedIn projects and Content 
